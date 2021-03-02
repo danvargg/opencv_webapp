@@ -1,1 +1,1 @@
-web: gunicorn opencv_web_app:app
+web: gunicorn opencv_webapp:app
